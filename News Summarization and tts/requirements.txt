@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+requests==2.32.3
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+transformers==4.44.2
+gtts==2.5.3
+lxml_html_clean==0.2.0
+newsapi-python==0.2.7 
